@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hi, I'm Ashwary Man  <br><br>🎓 Computer Science Student | 🤖 AI/ML Enthusiast   <br><br>---<br><br>## 🚀 About Me  <br>- Passionate about **Artificial Intelligence & Machine Learning**  <br>- Love building projects that solve **real-world problems**  <br>- Strong foundation in **Data Structures & Algorithms**  <br>- Currently exploring **AI for Cognitive Studies (EEG-based analysis)**  <br><br>---<br><br>## 🛠️ Tech Stack  <br><br>**Languages:**  <br>Python | C++ | C | SQL  <br><br>**AI/ML & Data Science:**  <br>NumPy | Pandas | Matplotlib | Seaborn | OpenCV | TensorFlow | Keras  <br><br>**Tools:**  <br>Git | Jupyter Notebook | Google Colab  <br><br>---<br><br>## 📌 Projects  <br><br>### 🔹 Face Recognition Attendance System  <br>- Built a CNN-based system using OpenCV & Keras  <br>- Implemented real-time face detection & classification  <br><br>### 🔹 Mental Health Prediction  <br>- ML model to classify mental health conditions  <br>- Used data preprocessing, feature encoding & evaluation metrics  <br><br>### 🔹 Road Network Detection (ISRO Hackathon)  <br>- Worked with satellite imagery (Sentinel-2, QGIS)  <br>- Extracted and vectorized road networks  <br><br>---<br><br>## 🏆 Experience & Achievements  <br>- 🚀 Machine Learning Trainee @ CTTC  <br>- 🤖 Agentic AI Trainee @ IBM SkillsBuild  <br>- 🛰️ Participant – ISRO Bharatiya Antariksh Hackathon  <br>- 💡 HackOdisha 5.0 – Built an educational app  <br><br>---<br><br>## 📈 Currently Learning  <br>- Advanced Machine Learning  <br>- Deep Learning & Neural Networks  <br>- AI in Cognitive Science  <br><br>---<br><br><br>⭐ *“Keep building. Keep learning.”* 
 
-<!--
-**aishhh94/aishhh94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/ashwaryman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwary15preet@gmail.com ) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aishhh94&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aishhh94&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aishhh94&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=aishhh94&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
